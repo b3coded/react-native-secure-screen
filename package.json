@@ -1,6 +1,6 @@
 {
   "name": "react-native-secure-screen",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Prevent screenshot in JS runtime",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
